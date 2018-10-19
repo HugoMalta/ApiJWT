@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/srv/APIJwt/bin
+/srv/APIJwt/obj
+/srv/.vs
+
+
+/src/.vs
+/src/APIJwt/bin/Debug/netcoreapp2.1
+/src/APIJwt/obj
